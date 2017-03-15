@@ -3,4 +3,4 @@ ecommerce basic site on pizza orders
 
 
 # demo
-  dev.erolkaftanoglu.com
+  ~~dev.erolkaftanoglu.com~~
